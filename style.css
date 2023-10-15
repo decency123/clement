@@ -1,0 +1,65 @@
+table {
+    background-color: rgb(5, 5, 67);
+    }
+    img {
+     border: 5px double gold;
+     border-radius: 50%;
+    }
+    h1,h2,h3 {
+        color: gold;
+    }
+    body {
+        background-color: rgb(18, 2, 2);
+    }
+        P {
+           color: blanchedalmond;"
+        }
+        OL {
+            color: beige;"
+        }
+        UL {
+            color: beige;"
+        }
+        
+       
+        /* this is the front page styling */
+
+        header {
+            background-color:  rgb(5, 5, 67);
+            color: #fff;
+            padding: 13px; 
+            box-shadow:  0 0 3px;
+        }
+        header li a
+        {
+            color: gold;
+            text-decoration: none;
+            padding: 20px;
+            transition: .3s ease;
+        }
+        header li a:hover
+        {
+           color: royalblue;
+        }
+        .list {
+            list-style-type: none;
+            display: flex;
+            /* flex-direction: column; */
+            justify-content: flex-start;
+            /* left: 0; */
+            /* margin-left: 30px; */
+            align-items: center;
+        }
+
+        .two{
+            margin-left: 40px;
+        }
+
+        .two li{
+            padding: 5px;
+        }
+
+    
+       /* this is all for now */
+            
+       
